@@ -14,7 +14,7 @@
 
 -   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
 -   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+-   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back**,**Serial Experiments Lain** y **Kakegurui**.
 
 ---
 
