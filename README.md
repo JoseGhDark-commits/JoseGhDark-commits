@@ -1,26 +1,37 @@
-# ¡Hola! Soy Jose 👋
-
 <p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=200&section=header&text=¡Hola!%20Soy%20Jose%20✨&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Header Wavy" />
 </p>
 
 <p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
+  <img src="https://i.giphy.com/M9gbBd9hCsO5tkj6Gv.gif" width="200" alt="Lain Kawaii GIF" />
 </p>
 
----
+<p align="center">
+  <font size="4">¡Bienvenido a mi rincón mágico en GitHub! 🎀✨</font>
+</p>
 
-### 🔭 Sobre Mí
+<p align="center">
+  Soy un apasionado del desarrollo, futuro estudiante de Ingeniería de Software y amante de la estética kawaii. (˶ᵔ ᵕ ᵔ˶)
+</p>
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+<p align="center">
+  <img src="https://media.tenor.com/t9OOUg_eJJQAAAAj/divider-cute.gif" width="100%" alt="Pink Flower Divider" />
+</p>
 
----
+### 🔭 Sobre Mí 🌸
 
-### 💻 Mi Stack de Tecnologías
+- 🎀 **Estado actual:** Aprendiendo y creando cositas lindas para fortalecer mis habilidades.
+- 🚀 **Mi meta:** Convertirme en un Ingeniero de Software increíble y contribuir a proyectos innovadores.
+- 🍬 **Dato curioso:** Me fascina el anime, en especial **Look Back** y **Serial Experiments Lain**. 🍭
+- ✨ **Vibe:** (づ ◕‿◕ )づ Siempre buscando aprender algo nuevo con estilo.
 
-Estas son las tecnologías con las que he estado trabajando recientemente:
+<p align="center">
+  <img src="https://media.tenor.com/t9OOUg_eJJQAAAAj/divider-cute.gif" width="100%" alt="Pink Flower Divider" />
+</p>
+
+### 💻 Mi Stack de Tecnologías ✨
+
+Estas son las herramientas con las que juego recientemente:
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -31,37 +42,55 @@ Estas son las tecnologías con las que he estado trabajando recientemente:
 
 ---
 
-### 🌱 Lo que estoy aprendiendo
+### 🌱 Lo que estoy aprendiendo 🎀
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+Actualmente estoy enfocado en:
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+- 🌸 **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
+- 🍭 **Backend:** Mis primeros pasos con Python para el desarrollo de servidores.
+- ✨ **DSA:** Preparándome con estructuras de datos y algoritmos. (≧◡≦)
 
----
+<p align="center">
+  <img src="https://media.tenor.com/t9OOUg_eJJQAAAAj/divider-cute.gif" width="100%" alt="Pink Flower Divider" />
+</p>
 
-### 🚀 Mis Proyectos Destacados
+### 🚀 Mis Proyectos Destacados 🍬
 
 <p align="center">
   <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=rose_pine&bg_color=fff0f5" alt="Petal Music V2 Project" />
   </a>
   <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=rose_pine&bg_color=fff0f5" alt="Word a PDF Project" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.tenor.com/t9OOUg_eJJQAAAAj/divider-cute.gif" width="100%" alt="Pink Flower Divider" />
+</p>
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Mis Estadísticas ✨
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=rose_pine&bg_color=fff0f5&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseGhDark-commits&theme=rose_pine&bg_color=fff0f5&show_icons=true&count_private=true" alt="GitHub General Stats" />
+</p>
 
-### 📫 Conecta Conmigo
+<p align="center">
+  <img src="https://media.tenor.com/t9OOUg_eJJQAAAAj/divider-cute.gif" width="100%" alt="Pink Flower Divider" />
+</p>
 
+### 📫 Conecta Conmigo 🌸
+
+<p align="center">
 <a href="https://x.com/ImGhDarkMRT" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
 </a>
+</p>
+
+<p align="center">
+  (づ ◕‿◕ )づ ✨ ¡Gracias por visitar! ✨
+</p>
