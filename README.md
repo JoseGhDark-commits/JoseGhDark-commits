@@ -1,26 +1,30 @@
-# ¡Hola! Soy Jose 👋
-
 <p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&height=200&section=header&text=¡Hola!%20Soy%20Jose&fontSize=70&fontColor=fff0f5" />
 </p>
 
 <p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
+  <img src="https://i.giphy.com/vP5gXvSXJ2olG.gif" width="250" alt="Serial Experiments Lain GIF" />
 </p>
 
+<p align="center">
+  ¡Bienvenido a mi rincón en GitHub! 🎀✨<br>
+  Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
+</p>
+
+### 🌸 Sobre Mí
+
+- 🌱 **Estado:** Aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
+- 🚀 **Objetivo:** Convertirme en Ingeniero de Software y contribuir a proyectos innovadores.
+- ⚡ **Dato curioso:** Me encanta el anime, especialmente **Look Back**, **Serial Experiments Lain** y **Kakegurui**.
+- ✨ **Vibe:** Pastel & Kawaii 🌸
+
 ---
 
-### 🔭 Sobre Mí
-
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
-
----
-
-### 💻 Mi Stack de Tecnologías
-
-Estas son las tecnologías con las que he estado trabajando recientemente:
+<h3 align="center">💻 Mi Stack de Tecnologías 🎀</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -31,37 +35,50 @@ Estas son las tecnologías con las que he estado trabajando recientemente:
 
 ---
 
-### 🌱 Lo que estoy aprendiendo
+<h3 align="center">🌱 Lo que estoy aprendiendo ✨</h3>
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
-
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+<p align="center">
+  <b>Frontend:</b> Profundizando en JavaScript y explorando frameworks como React. 🎀<br>
+  <b>Backend:</b> Dando mis primeros pasos con Python para el desarrollo de servidores. 🌸<br>
+  <b>Fundamentos:</b> Preparándome con Estructuras de Datos y Algoritmos. 📐
+</p>
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+<h3 align="center">🚀 Mis Proyectos Destacados 🌸</h3>
 
 <p align="center">
   <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=rose_pine&bg_color=fff0f5" alt="Petal Music V2" />
   </a>
   <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=rose_pine&bg_color=fff0f5" alt="WORD-a-PDF-Simple-V2-IU" />
   </a>
 </p>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+<h3 align="center">📊 Mis Estadísticas en GitHub 🎀</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=JoseGhDark-commits&show_icons=true&theme=rose_pine&bg_color=fff0f5" alt="GitHub Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=rose_pine&bg_color=fff0f5&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/ix6fQ6QQcRPLzfyETs.gif" width="200" alt="Yumeko Jabami GIF" />
+</p>
 
 ---
 
-### 📫 Conecta Conmigo
+<h3 align="center">📫 Conecta Conmigo ✨</h3>
 
-<a href="https://x.com/ImGhDarkMRT" target="_blank">
+<p align="center">
+  <a href="https://x.com/ImGhDarkMRT" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
-</a>
+  </a>
+</p>
+
+<p align="center">
+  <i>Hecho con 💖 y ✨ por Jose</i>
+</p>
