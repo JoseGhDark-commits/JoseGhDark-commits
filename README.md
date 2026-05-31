@@ -1,67 +1,109 @@
-# ¡Hola! Soy Jose 👋
+<div align="center">
 
-<p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&fontColor=fff0f5&fontSize=70&animation=fadeIn&section=header&text=JoseGhDark" width="100%" />
+
+<br />
+
+<!-- Profile GIF -->
+<img src="https://i.giphy.com/vP5gXvSXJ2olG.gif" width="300" />
+
+<br />
+
+# 🎀 ¡Hola! Soy Jose | Hi! I'm Jose 🎀
+
+*(✿◠‿◠) ✨ Bienvenido a mi perfil de GitHub ✨ (◠‿◠✿)*
+
+<p>
+  <b>Futuro Estudiante de Ingeniería de Software | Future Software Engineering Student</b>
 </p>
 
-<p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
+
+<br />
+
+### 🌸 Sobre Mí | About Me 🌸
+
+<p>
+  ¡Hola! Soy un entusiasta de la tecnología y el desarrollo, actualmente preparándome para entrar al mundo de la Ingeniería de Software. Me encanta crear cosas nuevas y aprender cada día algo diferente.
+  <br />
+  <i>Hi! I'm a technology and development enthusiast, currently preparing to enter the world of Software Engineering. I love creating new things and learning something different every day.</i>
 </p>
 
----
+🍬 **Intereses / Interests:**
+- 🔭 **Proyectos:** Creando herramientas útiles y estéticas. / *Creating useful and aesthetic tools.*
+- 🌱 **Aprendiendo:** JavaScript, React y Algoritmos. / *Learning JavaScript, React, and Algorithms.*
+- ⚡ **Dato:** Fan del anime (Lain, Look Back, Kakegurui). / *Anime fan (Lain, Look Back, Kakegurui).*
 
-### 🔭 Sobre Mí
+<br />
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
----
+<br />
 
-### 💻 Mi Stack de Tecnologías
+### ✨ Mi Stack de Tecnologías | My Tech Stack ✨
 
-Estas son las tecnologías con las que he estado trabajando recientemente:
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
----
+<br />
 
-### 🌱 Lo que estoy aprendiendo
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+<br />
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+### 🚀 Proyectos Destacados | Featured Projects 🚀
 
----
-
-### 🚀 Mis Proyectos Destacados
-
-<p align="center">
+<p>
   <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=cherry&bg_color=fff0f5" />
   </a>
   <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=cherry&bg_color=fff0f5" />
   </a>
 </p>
 
----
+<br />
 
-### 📊 Mis Estadísticas en GitHub
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br />
 
----
+### 📊 Estadísticas | Statistics 📊
 
-### 📫 Conecta Conmigo
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=JoseGhDark-commits&show_icons=true&theme=rose_pine&bg_color=fff0f5" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseGhDark-commits&layout=compact&theme=rose_pine&bg_color=fff0f5" width="300" />
+</p>
 
-<a href="https://x.com/ImGhDarkMRT" target="_blank">
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGhDark-commits&theme=rose_pine&background=fff0f5" width="100%" />
+</p>
+
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
+
+<br />
+
+### 📫 Conecta conmigo | Connect with me 📫
+
+<p>
+  <a href="https://x.com/ImGhDarkMRT" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
-</a>
+  </a>
+</p>
+
+<br />
+
+<img src="https://i.giphy.com/M9gbBd9hCsO5tkj6Gv.gif" width="150" />
+
+<br />
+
+*(✿◕‿◕) ✨ Gracias por visitar ✨ (◕‿◕✿)*
+
+</div>
