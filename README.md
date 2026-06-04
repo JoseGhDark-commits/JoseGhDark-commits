@@ -1,67 +1,106 @@
-# ¡Hola! Soy Jose 👋
+<div align="center">
 
-<p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&height=250&section=header&text=JoseGhDark&fontSize=70&animation=fadeIn&fontColor=fff0f5" />
+
+<br />
+
+<img src="https://i.giphy.com/M9gbBd9hCsO5tkj6Gv.gif" width="200" alt="Yumeko Jabami" />
+
+<br />
+
+# 🎀 ¡Hola! Soy Jose 🎀
+### ✨ Software Engineering Student & Aesthetic Enthusiast ✨
+
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
+
+<br />
+
+### 🌸 Sobre Mí | About Me 🌸
+
+<p>
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software. Me encanta crear cosas bonitas y funcionales.
+<br />
+<i>Welcome to my GitHub corner! I'm a development enthusiast and future Software Engineering student. I love creating beautiful and functional things.</i>
 </p>
 
-<p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
-</p>
+🌸 **🌱 Actualmente:** Aprendiendo y desarrollando proyectos para fortalecer mis habilidades.
+🌸 **🚀 Objetivo:** Convertirme en Ingeniero de Software y contribuir a proyectos innovadores.
+🌸 **⚡ Dato curioso:** Me encanta el anime, especialmente *Look Back* y *Serial Experiments Lain*. (´｡• ᵕ •｡`) ♡
 
----
+<br />
 
-### 🔭 Sobre Mí
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+<br />
 
----
+### 💻 Mi Stack de Tecnologías | Tech Stack 💻
 
-### 💻 Mi Stack de Tecnologías
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-Estas son las tecnologías con las que he estado trabajando recientemente:
+<br />
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-</p>
+### 💫 Lo que estoy aprendiendo | Learning Path 💫
 
----
+🌸 **Desarrollo Frontend:** Profundizando en React y animaciones.
+🌸 **Backend:** Fortaleciendo lógica con Python.
+🌸 **Estructuras de Datos:** Preparándome para el mundo profesional.
 
-### 🌱 Lo que estoy aprendiendo
+<br />
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+<br />
 
----
+### 🚀 Proyectos Destacados | Featured Projects 🚀
 
-### 🚀 Mis Proyectos Destacados
+<a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5" />
+</a>
+<a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
-  </a>
-  <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
-  </a>
-</p>
+<br />
 
----
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
 
-### 📊 Mis Estadísticas en GitHub
+<br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 Mis Estadísticas | My Stats 📊
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=JoseGhDark-commits&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&hide_border=true" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGhDark-commits&theme=rose_pine&background=fff0f5&title=ffb7c5&stroke=ffb7c5&sideNums=ffb7c5&sideLabels=ffb7c5&dates=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffb7c5" />
+<br />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseGhDark-commits&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&hide_border=true" />
 
-### 📫 Conecta Conmigo
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Cherry Blossom Divider" />
+
+<br />
+
+### 📫 Conecta Conmigo | Connect With Me 📫
 
 <a href="https://x.com/ImGhDarkMRT" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
+<a href="mailto:joseghdark@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=100&section=footer" />
+
+</div>
