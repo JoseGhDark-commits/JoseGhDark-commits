@@ -1,67 +1,116 @@
-# ¡Hola! Soy Jose 👋
+<div align="center">
 
-<p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&fontColor=fff0f5&fontSize=70&animation=fadeIn&section=header&text=Jose%20GhDark" alt="Header" />
+
+<br />
+
+<img src="https://i.giphy.com/vP5gXvSXJ2olG.gif" width="300" alt="Lain Iwakura" />
+
+<br />
+
+# 🎀 ¡Hola! Soy Jose 👋 🎀
+
+<p>
+  <b>Futuro Estudiante de Ingeniería de Software | Entusiasta del Desarrollo | Amante del Anime</b>
 </p>
 
-<p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Divider" />
+
+<br />
+
+<table border="0" width="100%">
+  <tr>
+    <td width="48%" align="center">
+      <h3>🌸 Sobre Mí 🌸</h3>
+      <p>
+        ¡Bienvenido a mi rincón en GitHub! Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software. Me encanta crear cosas nuevas y aprender constantemente.
+      </p>
+      <b>✨ Intereses: ✨</b>
+      <p>Anime (Lain, Look Back, Kakegurui), Desarrollo Web, Python y Gatitos. 🐾</p>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" align="center">
+      <h3>✨ About Me ✨</h3>
+      <p>
+        Welcome to my GitHub corner! I'm a development enthusiast and future Software Engineering student. I love creating new things and constantly learning.
+      </p>
+      <b>🌸 Interests: 🌸</b>
+      <p>Anime (Lain, Look Back, Kakegurui), Web Dev, Python and Kittens. 🐾</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Divider" />
+
+<br />
+
+<h3>💻 Mi Stack de Tecnologías 💻</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
+<br />
 
-### 🔭 Sobre Mí
+<h3>🌱 Lo que estoy aprendiendo 🌱</h3>
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
-
----
-
-### 💻 Mi Stack de Tecnologías
-
-Estas son las tecnologías con las que he estado trabajando recientemente:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<p>
+  <b>🎀 React | 🎀 Estructuras de Datos | 🎀 Algoritmos</b>
 </p>
 
----
+<br />
 
-### 🌱 Lo que estoy aprendiendo
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Divider" />
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+<br />
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+<h3>🚀 Mis Proyectos Destacados 🚀</h3>
 
----
-
-### 🚀 Mis Proyectos Destacados
-
-<p align="center">
+<p>
   <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5&icon_color=ffb7c5" alt="Petal Music V2" />
   </a>
   <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5&icon_color=ffb7c5" alt="WORD-a-PDF-Simple-V2-IU" />
   </a>
 </p>
 
----
+<br />
 
-### 📊 Mis Estadísticas en GitHub
+<img src="https://i.giphy.com/ix6fQ6QQcRPLzfyETs.gif" width="300" alt="Yumeko Jabami" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br />
 
----
+<h3>📊 Estadísticas 📊</h3>
 
-### 📫 Conecta Conmigo
+<img src="https://github-readme-stats.vercel.app/api?username=JoseGhDark-commits&show_icons=true&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5&icon_color=ffb7c5&hide_border=true" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGhDark-commits&theme=rose_pine&background=fff0f5&fire=ffb7c5&ring=ffb7c5&sideNums=ffb7c5&stroke=ffb7c5&currStreakNum=ffb7c5&sideLabels=ffb7c5&dates=ffb7c5&currStreakLabel=ffb7c5&hide_border=true" alt="GitHub Streak" />
 
-<a href="https://x.com/ImGhDarkMRT" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
-</a>
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" alt="Divider" />
+
+<br />
+
+<h3>📫 Conecta Conmigo 📫</h3>
+
+<p>
+  <a href="https://x.com/ImGhDarkMRT" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/jose_gh_dark" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&fontColor=fff0f5&fontSize=20&animation=fadeIn&section=footer" alt="Footer" />
+
+</div>
