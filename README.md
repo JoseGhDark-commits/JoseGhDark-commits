@@ -1,67 +1,109 @@
-# ¡Hola! Soy Jose 👋
+<div align="center">
 
-<p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
+<!-- Wavy Header -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&height=250&section=header&text=JoseGhDark&fontSize=70&animation=fadeIn&fontColor=fff0f5" width="100%" />
+
+<br />
+
+<!-- Aesthetic GIF -->
+<img src="https://i.giphy.com/vP5gXvSXJ2olG.gif" width="300" />
+
+<br />
+
+<!-- Subtitle / Introduction -->
+<h1>¡Hola! Soy Jose 👋</h1>
+<h3>✨ Futuro Ingeniero de Software & Entusiasta del Anime ✨</h3>
+
+<p>
+  <b>¡Bienvenid@ a mi rincón en GitHub!</b> 🌸 <br />
+  Soy un apasionado del desarrollo, enfocado en crear cosas lindas y funcionales.
 </p>
 
-<p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
-</p>
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
----
+</div>
 
-### 🔭 Sobre Mí
+<br />
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+<div align="center">
+  <h2>🎀 Sobre Mí / About Me 🎀</h2>
+</div>
 
----
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="48%" valign="top">
+      <h3>🇪🇸 En Español</h3>
+      <p>🌱 Actualmente aprendiendo para fortalecer mis habilidades.</p>
+      <p>🚀 Mi objetivo es ser Ingeniero de Software.</p>
+      <p>🎬 Fan de <b>Serial Experiments Lain</b>, <b>Look Back</b> y <b>Kakegurui</b>.</p>
+      <p>✨ Busco crear interfaces elegantes y eficientes.</p>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <h3>🇺🇸 In English</h3>
+      <p>🌱 Currently learning to strengthen my skills.</p>
+      <p>🚀 Aiming to become a Software Engineer.</p>
+      <p>🎬 Fan of <b>Serial Experiments Lain</b>, <b>Look Back</b>, and <b>Kakegurui</b>.</p>
+      <p>✨ Striving to create elegant and efficient interfaces.</p>
+    </td>
+  </tr>
+</table>
 
-### 💻 Mi Stack de Tecnologías
+<br />
 
-Estas son las tecnologías con las que he estado trabajando recientemente:
+<div align="center">
+  <img src="https://i.giphy.com/ix6fQ6QQcRPLzfyETs.gif" width="300" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-</p>
+<br />
 
----
+<div align="center">
 
-### 🌱 Lo que estoy aprendiendo
+<h2>💻 Mi Stack de Tecnologías / Tech Stack 💻</h2>
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+<br /><br />
 
----
+<h2>🚀 Proyectos Destacados / Featured Projects 🚀</h2>
 
-### 🚀 Mis Proyectos Destacados
+<a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5" />
+</a>
+<a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
-  </a>
-  <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
-  </a>
-</p>
+</div>
 
----
+<br />
 
-### 📊 Mis Estadísticas en GitHub
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2>📊 Estadísticas / Statistics 📊</h2>
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=JoseGhDark-commits&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5&hide_border=true" alt="Jose's GitHub Stats" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGhDark-commits&theme=rose_pine&background=fff0f5&ring=ffb7c5&fire=ffb7c5&currStreakLabel=ffb7c5&hide_border=true" alt="GitHub Streak" />
+<br />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseGhDark-commits&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=ffb7c5&hide_border=true" alt="Top Languages" />
 
-### 📫 Conecta Conmigo
+<br /><br />
+
+<h2>📫 Conecta Conmigo / Connect With Me 📫</h2>
 
 <a href="https://x.com/ImGhDarkMRT" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
 </a>
+<a href="https://www.instagram.com/jose_gh_dark" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile">
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=100&section=footer" width="100%" />
+
+</div>
