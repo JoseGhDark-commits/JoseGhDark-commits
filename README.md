@@ -1,67 +1,97 @@
-# ¡Hola! Soy Jose 👋
+<div align="center">
 
-<p align="center">
-  <img src="httpsd://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVxYjluYmQ4dHE2d2htZzJodjB4YjJjaWZ6dGdicGk2aWJtczRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5tkj6Gv/giphy.gif" width="200" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb7c5&height=200&section=header&text=JoseGhDark&fontSize=70&fontColor=fff0f5&animation=fadeIn" />
 
-<p align="center">
-  Bienvenido a mi rincón en GitHub. Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software.
-</p>
+<br />
 
----
+<img src="https://i.giphy.com/vP5gXvSXJ2olG.gif" width="350" />
 
-### 🔭 Sobre Mí
+<br />
 
--   🌱 Actualmente estoy aprendiendo y desarrollando pequeños proyectos para fortalecer mis habilidades.
--   🚀 Mi objetivo es convertirme en un Ingeniero de Software y contribuir a proyectos innovadores.
--   ⚡ Dato curioso: Me encanta el anime, especialmente **Look Back** y **Serial Experiments Lain**.
+<h1>¡Hola! Soy Jose 👋</h1>
 
----
+<h3>✨ Future Software Engineer | Anime Enthusiast | Creative Coder ✨</h3>
 
-### 💻 Mi Stack de Tecnologías
+<br />
 
-Estas son las tecnologías con las que he estado trabajando recientemente:
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-</p>
+<br />
 
----
+<table border="0">
+  <tr>
+    <td width="48%">
+      <div align="center">
+        <h3>🎀 Sobre Mí</h3>
+        <p>¡Bienvenido a mi rincón en GitHub! Soy un apasionado del desarrollo y futuro estudiante de Ingeniería de Software. Me encanta crear cosas nuevas y aprender cada día.</p>
+        <p><b>🌸 Intereses:</b> Me fascina el anime, especialmente <i>Serial Experiments Lain</i>, <i>Look Back</i> y <i>Kakegurui</i>.</p>
+        <p><b>🚀 Objetivo:</b> Convertirme en un desarrollador experto y contribuir a proyectos que impacten positivamente.</p>
+      </div>
+    </td>
+    <td width="4%"></td>
+    <td width="48%">
+      <div align="center">
+        <h3>🎀 About Me</h3>
+        <p>Welcome to my GitHub corner! I'm a development enthusiast and future Software Engineering student. I love creating new things and learning every day.</p>
+        <p><b>🌸 Interests:</b> I'm fascinated by anime, especially <i>Serial Experiments Lain</i>, <i>Look Back</i>, and <i>Kakegurui</i>.</p>
+        <p><b>🚀 Goal:</b> Become an expert developer and contribute to projects that make a positive impact.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🌱 Lo que estoy aprendiendo
+<br />
 
-Actualmente estoy enfocado en mejorar mis habilidades en:
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
--   **Desarrollo Frontend:** Profundizando en JavaScript y explorando frameworks como React.
--   **Backend:** Dando mis primeros pasos con Python para el desarrollo de servidores.
--   **Estructuras de Datos y Algoritmos:** Preparándome para los desafíos de la ingeniería de software.
+<br />
 
----
+<h3>💻 Mi Stack de Tecnologías</h3>
 
-### 🚀 Mis Proyectos Destacados
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
-<p align="center">
-  <a href="https://github.com/JoseGhDark-commits/Petal-Music-V2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=dark" />
-  </a>
-  <a href="https://github.com/JoseGhDark-commits/WORD-a-PDF-Simple-V2-IU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=dark" />
-  </a>
-</p>
+<br />
 
----
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
 
-### 📊 Mis Estadísticas en GitHub
+<br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhDark-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3>📊 Estadísticas de GitHub</h3>
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=JoseGhDark-commits&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=e57399&hide_border=true" />
 
-### 📫 Conecta Conmigo
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGhDark-commits&theme=rose_pine&background=fff0f5&title=ffb7c5&text=e57399&stroke=ffb7c5&hide_border=true" />
+
+<br />
+
+<h3>🚀 Proyectos Destacados</h3>
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=Petal-Music-V2&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=e57399&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=JoseGhDark-commits&repo=WORD-a-PDF-Simple-V2-IU&theme=rose_pine&bg_color=fff0f5&title_color=ffb7c5&text_color=e57399&hide_border=true" />
+
+<br />
+
+<img src="https://i.giphy.com/2wicMBKqNZlrW.gif" width="100%" />
+
+<br />
+
+<h3>📫 Conecta Conmigo</h3>
 
 <a href="https://x.com/ImGhDarkMRT" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Perfil en X" />
 </a>
+<a href="https://www.instagram.com/jose_gh_dark" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br />
+<br />
+
+<img src="https://i.giphy.com/ix6fQ6QQcRPLzfyETs.gif" width="150" />
+
+</div>
